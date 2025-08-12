@@ -122,8 +122,8 @@ We welcome contributions from developers, environmental scientists, and climate 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
-For questions, suggestions, or partnerships, please reach out to:
-- Email: contact@carbonfootprinttracker.com
-- Twitter: @CarbonTrackerDAO
-- Discord: [Join our community](https://discord.gg/carbontracker)
+
+## Contract Details
+  Deployed Contracts: 0x9dB57C0e6c4324175Bc6f6aD8c3e4A8FE43c3512
+  <img width="1440" height="900" alt="Screenshot 2025-08-12 at 2 49 44 PM" src="https://github.com/user-attachments/assets/f5fd8616-5c60-4ba4-acfe-1f8ef9480d89" />
+
